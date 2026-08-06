@@ -4,8 +4,11 @@ A responsive front-end clone of the Amazon homepage built using **HTML5** and **
 
 ---
 
-## 🚀 Live Demo
+## 🎥 Project Demo
 
+Click below to watch the demo video:
+
+[▶️ Watch Demo](https://github.com/Prachi-Guptaa/amazon-homepage-clone/raw/main/amazonClone.mp4)
 
 
 ---
