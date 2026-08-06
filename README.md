@@ -6,17 +6,21 @@ A responsive front-end clone of the Amazon homepage built using **HTML5** and **
 
 📸 Screenshots
 
-Homepage
+## Homepage
 
-[Image appears here]
+<img src="full-page-ss.png" width="100%">
 
-Product Section
+## Navbar
 
-[Image appears here]
+<img src="navbar.png" width="100%">
 
-Footer
+## Product Cards
 
-[Image appears here]
+<img src="product-cards.png" width="100%">
+
+## Footer
+
+<img src="footer.png" width="100%">
 
 
 ---
