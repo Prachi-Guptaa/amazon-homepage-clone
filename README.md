@@ -1,49 +1,57 @@
-# amazon-homepage-clone
+# 🛒 Amazon Homepage Clone
 
-A responsive front-end clone of the Amazon homepage built using **HTML5** and **CSS3**. This project was created to strengthen my understanding of modern web development fundamentals, responsive layouts, and UI design by recreating one of the world's most popular e-commerce websites.
-
----
-
-📸 Screenshots
-
-## Homepage
-
-<img src="full-page-ss.png" width="100%">
-
-## Navbar
-
-<img src="navbar.png" width="100%">
-
-## Product Cards
-
-<img src="product-cards.png" width="100%">
-
-## Footer
-
-<img src="footer.png" width="100%">
-
+A responsive front-end clone of the Amazon homepage built using **HTML5** and **CSS3**. This project was created to strengthen my understanding of modern web development fundamentals, responsive layouts, Flexbox, CSS positioning, and UI design by recreating one of the world's most popular e-commerce websites.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.netlify.app
+
+
+---
+
+## 📸 Project Screenshots
+
+### 🏠 Homepage
+
+<img src="full-page-ss.png" width="100%">
+
+---
+
+### 🔍 Navigation Bar
+
+<img src="navbar.png" width="100%">
+
+---
+
+### 🛍️ Product Cards
+
+<img src="product-cards.png" width="100%">
+
+---
+
+### 📄 Footer
+
+<img src="footer.png" width="100%">
 
 ---
 
 ## ✨ Features
 
-- Amazon-inspired responsive homepage
-- Fully structured navigation bar
-- Search bar with category selector
-- Language selector UI
+- Responsive Amazon-inspired homepage
+- Navigation bar with:
+  - Amazon logo
+  - Delivery location
+  - Search bar
+  - Language selector
+  - Sign In section
+  - Returns & Orders
+  - Shopping Cart
 - Hero banner section
-- Product recommendation cards
+- Product card layout
 - Multi-column footer
-- Hover effects
-- Clean and organized layout
-- Semantic HTML5 structure
-- Flexbox-based layout
+- Clean and organized project structure
+- Built entirely with HTML5 and CSS3
 
 ---
 
@@ -52,41 +60,67 @@ A responsive front-end clone of the Amazon homepage built using **HTML5** and **
 - HTML5
 - CSS3
 - Flexbox
-- Google Fonts
+- CSS Grid
+- Responsive Design
 
 ---
 
 ## 📚 What I Learned
 
-While building this project, I gained practical experience with:
+During this project I learned:
 
 - Semantic HTML
-- CSS Flexbox
+- CSS Selectors
+- Flexbox
+- CSS Grid
 - Positioning
 - Box Model
-- Responsive layouts
-- CSS hover effects
-- Recreating real-world website interfaces
-- Organizing frontend project structure
+- Hover Effects
+- Responsive Layout Design
+- Building real-world UI clones
+- Organizing project structure
 
 ---
 
-## 📈 Future Improvements
+## 📁 Project Structure
+
+```
+amazon-homepage-clone/
+│
+├── index.html
+├── style.css
+├── homepage.png
+├── navbar.png
+├── product-cards.png
+├── footer.png
+└── README.md
+```
+
+---
+
+## 🎯 Future Improvements
 
 - Add JavaScript functionality
-- Functional search bar
-- Language dropdown menu
-- Shopping cart interactions
-- Mobile responsiveness
-- Dark mode
-- Product carousel
-- Backend integration
+- Implement dropdown menus
+- Add image slider/carousel
+- Make fully mobile responsive
+- Create product pages
+- Add shopping cart functionality
+- Connect with a backend
 
 ---
 
-## 💻 Getting Started
+## 👩‍💻 Author
 
-Clone the repository
+**Prachi Gupta**
 
-```bash
-git clone https://github.com/Prachi-Guptaa/amazon-homepage-clone.git
+Third-Year B.Tech Computer Engineering Student
+
+- GitHub: https://github.com/Prachi-Guptaa
+- LinkedIn:www.linkedin.com/in/prachi-gupta-58a751417
+
+
+---
+
+⭐ If you like this project, consider giving it a star!
+
