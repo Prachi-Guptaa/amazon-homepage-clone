@@ -89,4 +89,4 @@ While building this project, I gained practical experience with:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/amazon-homepage-clone.git
+git clone https://github.com/Prachi-Guptaa/amazon-homepage-clone.git
